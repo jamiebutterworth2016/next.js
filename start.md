@@ -11,7 +11,8 @@ cd to root. Following command creates project dir.
 `next dev`
 
 # Create routes
-`mkdir app/route`
+`mkdir app/route`  
+`echo > app/route/page.tsx`
 
 # Reserved file names
 `page.tsx`  
