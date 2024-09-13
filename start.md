@@ -19,7 +19,7 @@ cd to root. Following command creates project dir.
 export default function Home() {
   return (
     <main>
-      <h1>Homepage</h1>
+      <h1>Home</h1>
     </main>
   );
 }
