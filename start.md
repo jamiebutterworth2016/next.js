@@ -1,5 +1,8 @@
 Next.js is a fullstack React framework - an extension of React.  
-Simplifies building fullstack apps with React.
+Simplifies building fullstack apps with React.  
+Vanilla React is a client-side JS library which runs in the browser.  
+Downside - SEO sees limited page content.  
+Next.js shows all page content in source code.
 
 Install Node.js.  
 cd to root. Following command creates project dir.  
