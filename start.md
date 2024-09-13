@@ -11,9 +11,19 @@ cd to root. Following command creates project dir.
 `npm run build`  
 `npm run start`
 
-# Create routes
+# Create routes and pages
 `mkdir app/route`  
 `echo > app/route/page.tsx`
+
+```
+export default function Home() {
+  return (
+    <main>
+      <h1>Homepage</h1>
+    </main>
+  );
+}
+```
 
 # Reserved file names
 `page.tsx`  
