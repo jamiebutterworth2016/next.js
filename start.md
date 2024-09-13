@@ -13,7 +13,9 @@ cd to root. Following command creates project dir.
 
 # Create routes and pages
 `mkdir app/route`  
-`echo > app/route/page.tsx`
+`echo > app/route/page.tsx`  
+`mkdir app/meals/[meal]`  
+`echo > app/meals/[meal]/page.tsx`
 
 ```
 export default function Home() {
