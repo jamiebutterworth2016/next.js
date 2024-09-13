@@ -3,6 +3,7 @@ Simplifies building fullstack apps with React.
 Vanilla React is a client-side JS library which runs in the browser.  
 Downside - SEO sees limited page content.  
 Next.js shows all page content in source code.
+Next.js runs on both client and server.  
 
 Install Node.js.  
 cd to root. Following command creates project dir.  
