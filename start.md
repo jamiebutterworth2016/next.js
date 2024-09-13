@@ -8,7 +8,8 @@ Next.js runs on both client and server.
 Install Node.js.  
 cd to root. Following command creates project dir.  
 `npx create-next-app@latest`  
-`next dev`
+`npm run build`  
+`npm run start`
 
 # Create routes
 `mkdir app/route`  
