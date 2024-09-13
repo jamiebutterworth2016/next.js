@@ -10,8 +10,8 @@ cd to root. Following command creates project dir.
 `npx create-next-app@latest`  
 `next dev`
 
-# app folder
-Contains page structure
+# Create routes
+`mkdir app/route`
 
 # Reserved file names
 `page.tsx`  
