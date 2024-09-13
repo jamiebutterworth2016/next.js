@@ -12,3 +12,11 @@ cd to root. Following command creates project dir.
 
 # app folder
 Contains page structure
+
+# Reserved file names
+`page.tsx`  
+`layout.tsx`  
+`not-found.tsx`  
+`error.tsx`  
+`loading.tsx`  
+`route.tsx`  
